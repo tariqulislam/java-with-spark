@@ -1,0 +1,596 @@
+Location,Gender,Payment Method,Total Purchase (USD),Average Purchase (USD),Max Purchase Amount (USD),Min Purchase Amount (USD),count
+West Virginia,Male,Debit Card,347,57.83,77,41,6
+Ohio,Female,Debit Card,156,78.0,89,67,2
+South Dakota,Female,Venmo,268,53.6,87,21,5
+Oklahoma,Male,Venmo,520,74.29,98,42,7
+Alaska,Male,Bank Transfer,556,69.5,96,51,8
+Texas,Female,PayPal,364,60.67,99,28,6
+South Dakota,Female,Cash,218,72.67,85,63,3
+Vermont,Male,Venmo,440,48.89,92,24,9
+Arkansas,Female,Venmo,169,56.33,81,32,3
+Colorado,Male,Cash,564,56.4,85,38,10
+Pennsylvania,Male,Venmo,698,69.8,94,29,10
+Massachusetts,Male,Cash,1058,66.13,95,35,16
+Rhode Island,Female,PayPal,337,56.17,90,20,6
+Alaska,Female,Venmo,462,77.0,97,23,6
+Louisiana,Female,Debit Card,259,86.33,97,76,3
+North Carolina,Male,Debit Card,783,55.93,97,32,14
+Washington,Female,Bank Transfer,183,91.5,96,87,2
+Louisiana,Male,Debit Card,645,64.5,99,31,10
+Delaware,Male,Debit Card,472,59.0,95,29,8
+North Dakota,Male,Cash,659,59.91,100,20,11
+South Carolina,Female,Debit Card,99,49.5,69,30,2
+North Dakota,Male,PayPal,680,68.0,97,21,10
+Washington,Male,Credit Card,437,72.83,90,53,6
+Wisconsin,Male,Credit Card,473,59.13,94,23,8
+Arkansas,Female,Cash,522,74.57,99,32,7
+Louisiana,Male,Cash,574,63.78,93,29,9
+New York,Male,PayPal,421,46.78,94,20,9
+Connecticut,Male,Credit Card,253,42.17,93,21,6
+Montana,Female,Debit Card,424,60.57,91,25,7
+Georgia,Female,Bank Transfer,255,51.0,80,22,5
+Wyoming,Female,PayPal,115,57.5,80,35,2
+Utah,Female,PayPal,505,63.13,100,33,8
+Utah,Female,Credit Card,103,51.5,66,37,2
+New Hampshire,Female,Venmo,116,58.0,70,46,2
+Indiana,Female,Cash,35,35.0,35,35,1
+Nebraska,Male,Credit Card,562,62.44,84,37,9
+Mississippi,Male,Debit Card,814,74.0,99,30,11
+Utah,Male,Bank Transfer,184,46.0,88,20,4
+Kansas,Female,Debit Card,260,52.0,81,22,5
+Kansas,Female,Bank Transfer,210,52.5,79,23,4
+Louisiana,Male,Credit Card,630,52.5,78,34,12
+Florida,Male,Debit Card,391,48.88,84,22,8
+Virginia,Male,Venmo,247,82.33,99,62,3
+Nebraska,Female,Cash,673,67.3,99,25,10
+Michigan,Female,PayPal,497,71.0,98,21,7
+Mississippi,Female,Venmo,282,70.5,98,50,4
+Montana,Male,Venmo,351,50.14,77,30,7
+Massachusetts,Male,Venmo,358,51.14,83,21,7
+Illinois,Male,Cash,892,63.71,96,28,14
+Delaware,Female,Debit Card,223,74.33,75,73,3
+New Hampshire,Female,Debit Card,182,60.67,74,43,3
+Illinois,Male,PayPal,368,52.57,84,20,7
+Indiana,Male,PayPal,386,55.14,71,42,7
+Kansas,Male,PayPal,369,61.5,81,21,6
+Mississippi,Male,Bank Transfer,207,41.4,64,21,5
+New Mexico,Female,Bank Transfer,488,69.71,100,32,7
+Ohio,Male,Bank Transfer,129,64.5,78,51,2
+Oklahoma,Female,Credit Card,241,48.2,66,26,5
+Indiana,Female,Venmo,204,68.0,85,36,3
+Minnesota,Female,Cash,188,62.67,81,32,3
+Alabama,Female,Venmo,317,79.25,88,60,4
+Maine,Male,Credit Card,484,44.0,92,21,11
+Colorado,Male,Venmo,169,42.25,77,26,4
+Massachusetts,Male,Bank Transfer,433,61.86,90,29,7
+Ohio,Male,Credit Card,527,58.56,91,29,9
+Michigan,Male,Bank Transfer,423,47.0,74,22,9
+West Virginia,Female,Credit Card,388,55.43,91,26,7
+Arizona,Female,Bank Transfer,185,61.67,98,23,3
+Ohio,Female,Credit Card,200,66.67,89,45,3
+Hawaii,Female,Venmo,94,47.0,53,41,2
+Kentucky,Male,PayPal,629,62.9,98,39,10
+Florida,Male,PayPal,552,61.33,98,24,9
+Oregon,Male,Venmo,582,72.75,100,35,8
+Arkansas,Male,PayPal,635,57.73,96,22,11
+South Dakota,Female,Debit Card,237,59.25,80,20,4
+Missouri,Female,Debit Card,211,70.33,91,52,3
+Connecticut,Male,PayPal,495,49.5,95,22,10
+Nevada,Female,Cash,177,59.0,97,21,3
+Kansas,Male,Bank Transfer,232,46.4,87,24,5
+Maryland,Male,Venmo,710,54.62,100,20,13
+Massachusetts,Male,Debit Card,790,60.77,98,21,13
+New Mexico,Male,Credit Card,659,59.91,97,29,11
+Illinois,Female,Venmo,480,60.0,91,38,8
+Utah,Female,Venmo,288,72.0,99,25,4
+Minnesota,Male,Credit Card,274,45.67,70,25,6
+North Dakota,Male,Bank Transfer,686,68.6,90,39,10
+Maryland,Male,Credit Card,681,61.91,94,36,11
+Florida,Male,Bank Transfer,466,51.78,88,22,9
+New Jersey,Female,Bank Transfer,222,55.5,93,38,4
+Virginia,Male,Cash,563,56.3,96,22,10
+South Dakota,Male,Bank Transfer,283,56.6,96,30,5
+Michigan,Male,Cash,336,56.0,99,25,6
+North Carolina,Female,Bank Transfer,235,58.75,84,22,4
+Illinois,Male,Venmo,1224,61.2,98,21,20
+North Dakota,Female,Cash,299,59.8,95,29,5
+Maine,Male,Bank Transfer,487,60.88,79,34,8
+Nevada,Male,PayPal,492,49.2,86,21,10
+Wisconsin,Female,Debit Card,124,41.33,59,23,3
+Washington,Male,PayPal,350,70.0,94,45,5
+Hawaii,Female,Cash,137,45.67,70,31,3
+Washington,Female,Venmo,307,61.4,81,45,5
+Hawaii,Male,Cash,535,48.64,95,21,11
+New Jersey,Male,Credit Card,355,59.17,88,20,6
+Mississippi,Female,Credit Card,348,58.0,81,30,6
+Connecticut,Female,Credit Card,337,67.4,98,43,5
+Georgia,Male,Bank Transfer,383,42.56,94,26,9
+Vermont,Female,Credit Card,111,55.5,67,44,2
+Arizona,Male,Credit Card,603,75.38,100,59,8
+Virginia,Female,Venmo,515,64.38,98,27,8
+Florida,Female,PayPal,250,50.0,68,34,5
+California,Female,PayPal,451,64.43,100,29,7
+Oregon,Female,Debit Card,174,43.5,63,30,4
+Oklahoma,Female,Debit Card,144,72.0,95,49,2
+Vermont,Male,PayPal,623,51.92,93,22,12
+Arkansas,Male,Cash,827,63.62,98,23,13
+Wyoming,Female,Credit Card,233,58.25,83,27,4
+Nevada,Female,Credit Card,719,71.9,97,39,10
+Maryland,Female,Debit Card,100,100.0,100,100,1
+Missouri,Female,Venmo,117,39.0,61,24,3
+North Dakota,Female,PayPal,180,60.0,82,46,3
+Ohio,Male,PayPal,591,59.1,85,28,10
+New Mexico,Male,Debit Card,687,57.25,95,24,12
+Colorado,Male,PayPal,452,56.5,90,33,8
+Illinois,Female,Debit Card,146,73.0,88,58,2
+New Mexico,Female,Venmo,221,73.67,93,49,3
+Oklahoma,Female,PayPal,295,59.0,100,36,5
+Alaska,Male,Venmo,495,61.88,90,24,8
+Maryland,Female,Credit Card,419,52.38,86,20,8
+Iowa,Female,Venmo,241,60.25,77,41,4
+South Carolina,Female,Bank Transfer,166,55.33,76,30,3
+Nebraska,Female,Debit Card,253,84.33,93,79,3
+Maine,Female,Credit Card,258,86.0,97,71,3
+Arizona,Female,Venmo,198,66.0,87,32,3
+Vermont,Female,Venmo,188,47.0,84,20,4
+Kentucky,Female,Credit Card,220,55.0,71,34,4
+Maine,Male,Cash,653,65.3,84,22,10
+Hawaii,Male,Debit Card,635,63.5,95,40,10
+Pennsylvania,Male,Debit Card,241,80.33,85,72,3
+New Jersey,Female,Credit Card,350,58.33,81,33,6
+California,Male,Debit Card,921,65.79,97,20,14
+Tennessee,Male,PayPal,553,50.27,100,21,11
+Minnesota,Female,Venmo,575,57.5,98,21,10
+New Hampshire,Female,Bank Transfer,49,49.0,49,49,1
+New York,Male,Debit Card,676,56.33,94,20,12
+South Dakota,Male,Credit Card,543,54.3,90,24,10
+Kansas,Male,Credit Card,511,63.88,98,27,8
+South Dakota,Female,Credit Card,89,44.5,61,28,2
+New Hampshire,Male,Debit Card,311,44.43,74,23,7
+North Carolina,Female,Cash,230,57.5,76,21,4
+West Virginia,Female,Venmo,229,45.8,79,26,5
+Wyoming,Female,Venmo,60,60.0,60,60,1
+Virginia,Male,Credit Card,849,56.6,100,26,15
+Ohio,Male,Debit Card,690,62.73,99,23,11
+Nevada,Male,Venmo,455,75.83,93,50,6
+Tennessee,Male,Venmo,200,66.67,87,51,3
+New Hampshire,Female,PayPal,145,48.33,79,25,3
+Delaware,Male,PayPal,725,72.5,100,20,10
+Arizona,Male,Venmo,304,60.8,84,29,5
+Virginia,Female,Debit Card,457,91.4,97,78,5
+Vermont,Male,Debit Card,698,69.8,91,34,10
+Idaho,Male,Debit Card,805,73.18,100,33,11
+Minnesota,Male,Bank Transfer,430,53.75,91,21,8
+Oklahoma,Male,PayPal,390,39.0,78,22,10
+Louisiana,Male,PayPal,482,53.56,97,21,9
+Indiana,Male,Debit Card,577,57.7,94,24,10
+Washington,Male,Debit Card,692,69.2,92,38,10
+Utah,Male,Venmo,595,66.11,98,32,9
+Colorado,Female,Debit Card,312,52.0,84,29,6
+Oregon,Male,PayPal,585,53.18,94,32,11
+Nevada,Male,Credit Card,621,51.75,89,20,12
+New Hampshire,Female,Cash,663,66.3,94,26,10
+Georgia,Female,Credit Card,443,73.83,97,26,6
+Rhode Island,Male,Bank Transfer,475,67.86,97,27,7
+West Virginia,Male,PayPal,612,61.2,92,28,10
+Mississippi,Male,PayPal,630,78.75,98,56,8
+Rhode Island,Male,Cash,360,72.0,94,50,5
+Vermont,Female,Bank Transfer,232,58.0,85,35,4
+Montana,Male,Bank Transfer,738,61.5,93,28,12
+Michigan,Female,Credit Card,229,76.33,82,73,3
+Texas,Female,Venmo,299,74.75,98,51,4
+New York,Female,Bank Transfer,234,58.5,70,45,4
+Tennessee,Male,Debit Card,881,67.77,98,23,13
+Maine,Male,Venmo,428,47.56,77,23,9
+North Carolina,Male,Cash,478,53.11,98,22,9
+Wisconsin,Male,PayPal,538,53.8,90,23,10
+Idaho,Female,Venmo,362,51.71,93,28,7
+New York,Female,Cash,369,61.5,93,24,6
+Hawaii,Male,Bank Transfer,623,56.64,91,21,11
+Maryland,Male,Cash,438,48.67,88,21,9
+North Carolina,Male,Venmo,176,58.67,76,38,3
+Oregon,Female,Venmo,222,74.0,90,58,3
+Delaware,Female,Credit Card,88,44.0,49,39,2
+Missouri,Female,Credit Card,272,54.4,77,24,5
+North Carolina,Male,Credit Card,690,62.73,96,28,11
+Wisconsin,Female,Venmo,178,44.5,79,26,4
+Kentucky,Female,Venmo,328,65.6,95,32,5
+Kansas,Female,Cash,301,43.0,76,21,7
+Louisiana,Female,Venmo,182,60.67,73,38,3
+Missouri,Male,Bank Transfer,939,62.6,99,22,15
+Michigan,Female,Cash,409,58.43,98,29,7
+New Jersey,Male,Cash,282,56.4,97,41,5
+Hawaii,Male,Venmo,260,52.0,78,21,5
+Washington,Female,Cash,204,68.0,97,48,3
+Rhode Island,Female,Bank Transfer,182,45.5,63,28,4
+Oregon,Female,PayPal,211,70.33,72,69,3
+South Carolina,Male,Venmo,736,52.57,85,25,14
+Michigan,Male,Credit Card,454,56.75,92,30,8
+Alabama,Female,PayPal,384,54.86,88,26,7
+Minnesota,Female,Bank Transfer,299,74.75,99,32,4
+Virginia,Female,Bank Transfer,80,80.0,80,80,1
+Wisconsin,Female,PayPal,94,94.0,94,94,1
+Wyoming,Male,Bank Transfer,225,75.0,98,59,3
+Maine,Male,Debit Card,373,53.29,89,20,7
+South Carolina,Male,Credit Card,657,59.73,99,25,11
+Florida,Female,Debit Card,201,50.25,63,28,4
+Michigan,Male,Debit Card,451,56.38,94,20,8
+Wyoming,Male,Cash,437,72.83,99,32,6
+Minnesota,Male,Cash,830,63.85,98,22,13
+Montana,Male,Credit Card,173,57.67,79,37,3
+Delaware,Male,Bank Transfer,592,53.82,91,26,11
+Tennessee,Male,Bank Transfer,427,53.38,88,32,8
+Maryland,Female,PayPal,256,51.2,82,29,5
+South Carolina,Male,PayPal,424,60.57,100,30,7
+New York,Male,Venmo,367,61.17,82,26,6
+Hawaii,Male,PayPal,535,66.88,96,44,8
+South Carolina,Male,Cash,538,48.91,87,23,11
+Hawaii,Male,Credit Card,359,59.83,95,34,6
+New York,Female,Venmo,397,66.17,95,39,6
+Connecticut,Female,Venmo,85,42.5,56,29,2
+Iowa,Female,PayPal,190,63.33,93,27,3
+South Carolina,Female,PayPal,152,76.0,96,56,2
+Ohio,Male,Venmo,644,64.4,98,22,10
+Illinois,Female,Bank Transfer,376,75.2,98,37,5
+New York,Female,Credit Card,120,40.0,56,31,3
+Nevada,Male,Debit Card,419,69.83,93,39,6
+North Carolina,Male,Bank Transfer,781,71.0,99,47,11
+North Dakota,Male,Debit Card,485,53.89,95,29,9
+Utah,Male,PayPal,298,49.67,88,23,6
+Idaho,Female,Bank Transfer,327,54.5,99,22,6
+Pennsylvania,Female,Cash,425,60.71,77,36,7
+Colorado,Female,Bank Transfer,125,41.67,71,24,3
+Massachusetts,Male,PayPal,368,61.33,94,21,6
+Colorado,Male,Bank Transfer,596,54.18,95,20,11
+Alaska,Male,PayPal,493,61.63,99,33,8
+Rhode Island,Male,Credit Card,155,38.75,49,22,4
+Hawaii,Female,Credit Card,131,65.5,100,31,2
+Wyoming,Male,Venmo,554,55.4,91,20,10
+Nevada,Male,Cash,1136,71.0,99,30,16
+Colorado,Male,Credit Card,562,62.44,90,27,9
+Montana,Female,Credit Card,303,50.5,91,21,6
+Arkansas,Male,Bank Transfer,554,55.4,99,22,10
+Oklahoma,Male,Credit Card,411,58.71,88,29,7
+Iowa,Male,Cash,799,66.58,99,20,12
+Nevada,Female,Bank Transfer,195,97.5,100,95,2
+California,Female,Venmo,267,66.75,81,52,4
+Alabama,Female,Bank Transfer,168,56.0,74,41,3
+Minnesota,Female,Credit Card,330,66.0,94,20,5
+Florida,Male,Credit Card,620,62.0,94,31,10
+Illinois,Female,PayPal,228,57.0,99,20,4
+New Jersey,Female,Cash,176,58.67,85,32,3
+West Virginia,Female,PayPal,144,72.0,82,62,2
+South Dakota,Male,Cash,661,66.1,98,27,10
+Connecticut,Female,PayPal,408,58.29,95,21,7
+Idaho,Male,Cash,659,54.92,87,20,12
+New Mexico,Male,Bank Transfer,515,57.22,91,21,9
+Maine,Female,PayPal,217,54.25,83,27,4
+Wyoming,Female,Debit Card,271,54.2,99,22,5
+New Mexico,Female,Debit Card,176,58.67,92,39,3
+California,Female,Credit Card,324,54.0,94,23,6
+Florida,Female,Credit Card,228,57.0,79,26,4
+North Carolina,Male,PayPal,484,69.14,94,26,7
+Texas,Male,Credit Card,348,58.0,93,21,6
+Minnesota,Male,Debit Card,546,54.6,89,32,10
+South Carolina,Female,Venmo,215,71.67,85,65,3
+Colorado,Female,Cash,129,43.0,55,32,3
+Georgia,Female,PayPal,105,52.5,79,26,2
+Nebraska,Male,Debit Card,547,60.78,94,34,9
+Texas,Female,Credit Card,369,52.71,86,21,7
+Maryland,Female,Cash,312,62.4,87,29,5
+Alabama,Female,Debit Card,328,65.6,94,24,5
+Nebraska,Female,Bank Transfer,372,53.14,87,25,7
+Tennessee,Female,Bank Transfer,76,38.0,50,26,2
+Georgia,Male,Cash,439,54.88,94,26,8
+Virginia,Female,Cash,38,38.0,38,38,1
+Virginia,Female,Credit Card,378,54.0,99,25,7
+Indiana,Female,Debit Card,74,74.0,74,74,1
+New Jersey,Male,Venmo,440,62.86,98,36,7
+Tennessee,Male,Cash,606,60.6,96,20,10
+Michigan,Male,PayPal,520,65.0,100,29,8
+Georgia,Female,Cash,309,51.5,72,27,6
+Utah,Female,Debit Card,452,75.33,96,37,6
+Texas,Female,Bank Transfer,479,68.43,94,36,7
+Iowa,Male,Debit Card,591,59.1,98,21,10
+Georgia,Male,Debit Card,466,66.57,97,40,7
+Ohio,Female,Cash,185,46.25,60,33,4
+Virginia,Female,PayPal,149,74.5,83,66,2
+Utah,Male,Debit Card,226,56.5,100,20,4
+Louisiana,Male,Venmo,424,38.55,77,22,11
+Rhode Island,Female,Debit Card,226,56.5,80,30,4
+California,Female,Debit Card,201,67.0,88,40,3
+New Jersey,Female,PayPal,96,32.0,37,29,3
+Wisconsin,Male,Debit Card,491,54.56,100,20,9
+Idaho,Female,Debit Card,201,67.0,88,28,3
+Massachusetts,Female,PayPal,339,56.5,99,20,6
+West Virginia,Male,Credit Card,836,76.0,100,33,11
+Nevada,Male,Bank Transfer,519,64.88,98,27,8
+Michigan,Female,Venmo,119,59.5,71,48,2
+Nebraska,Male,Venmo,572,47.67,91,21,12
+Wyoming,Male,Debit Card,1100,73.33,99,45,15
+North Dakota,Male,Venmo,755,58.08,100,27,13
+Texas,Female,Debit Card,486,60.75,87,32,8
+Maine,Female,Cash,182,45.5,53,28,4
+Alabama,Male,Credit Card,726,60.5,99,22,12
+Washington,Male,Bank Transfer,737,67.0,100,33,11
+Michigan,Female,Bank Transfer,364,91.0,98,75,4
+Colorado,Female,Credit Card,344,68.8,90,32,5
+Virginia,Male,Bank Transfer,357,71.4,95,42,5
+Illinois,Male,Bank Transfer,293,48.83,73,31,6
+Oklahoma,Female,Cash,279,55.8,89,20,5
+Maine,Female,Debit Card,316,63.2,83,34,5
+Indiana,Female,PayPal,245,61.25,92,30,4
+Missouri,Male,Venmo,299,42.71,85,26,7
+New Jersey,Female,Venmo,419,59.86,94,29,7
+Oregon,Female,Credit Card,251,50.2,82,33,5
+South Dakota,Male,Debit Card,638,70.89,92,47,9
+Maryland,Female,Bank Transfer,354,59.0,87,36,6
+South Carolina,Female,Cash,483,80.5,99,48,6
+Vermont,Male,Credit Card,672,56.0,99,23,12
+Alabama,Male,PayPal,517,43.08,79,20,12
+Arizona,Female,PayPal,338,67.6,93,29,5
+Kentucky,Male,Bank Transfer,368,61.33,90,29,6
+West Virginia,Male,Bank Transfer,860,66.15,98,24,13
+Illinois,Male,Credit Card,488,69.71,91,31,7
+Iowa,Female,Credit Card,93,46.5,48,45,2
+Tennessee,Female,Credit Card,414,82.8,99,58,5
+Rhode Island,Male,Debit Card,280,56.0,99,25,5
+Maryland,Male,PayPal,756,58.15,98,20,13
+Ohio,Female,Venmo,448,56.0,95,22,8
+Missouri,Male,PayPal,992,62.0,100,22,16
+New York,Male,Bank Transfer,891,68.54,97,31,13
+New Mexico,Male,Cash,249,62.25,90,48,4
+Indiana,Male,Bank Transfer,664,55.33,90,21,12
+Alaska,Male,Cash,419,69.83,99,27,6
+North Carolina,Female,Venmo,264,52.8,75,27,5
+New Jersey,Male,Debit Card,547,49.73,92,24,11
+Virginia,Male,PayPal,546,54.6,95,25,10
+Michigan,Male,Venmo,677,67.7,100,21,10
+Pennsylvania,Female,Credit Card,292,58.4,93,25,5
+Ohio,Male,Cash,428,61.14,90,34,7
+Massachusetts,Female,Bank Transfer,160,53.33,64,34,3
+Mississippi,Male,Venmo,574,52.18,91,22,11
+Georgia,Female,Debit Card,285,47.5,82,25,6
+Oklahoma,Female,Venmo,247,61.75,99,20,4
+Arkansas,Female,PayPal,251,83.67,91,71,3
+Utah,Male,Credit Card,622,62.2,91,32,10
+Idaho,Male,Bank Transfer,378,54.0,97,30,7
+Iowa,Male,PayPal,379,63.17,98,20,6
+Ohio,Female,PayPal,575,57.5,100,22,10
+California,Female,Cash,342,57.0,97,38,6
+Delaware,Female,Cash,232,46.4,83,23,5
+Iowa,Male,Venmo,467,46.7,84,23,10
+Arizona,Female,Credit Card,260,65.0,85,32,4
+Pennsylvania,Male,PayPal,548,54.8,100,23,10
+Idaho,Male,PayPal,580,58.0,93,22,10
+Arizona,Female,Cash,232,58.0,88,22,4
+Montana,Female,Cash,362,60.33,90,30,6
+Maryland,Male,Bank Transfer,275,55.0,95,29,5
+New York,Female,PayPal,410,82.0,98,57,5
+Alabama,Female,Cash,130,43.33,50,34,3
+South Dakota,Male,Venmo,413,51.63,98,29,8
+Washington,Female,Debit Card,365,60.83,96,28,6
+Minnesota,Female,PayPal,159,39.75,70,23,4
+Tennessee,Female,Venmo,156,52.0,61,47,3
+Pennsylvania,Female,Venmo,96,96.0,96,96,1
+Alabama,Male,Bank Transfer,478,68.29,85,43,7
+Vermont,Male,Cash,366,45.75,81,23,8
+Utah,Female,Cash,135,67.5,70,65,2
+Hawaii,Female,Debit Card,96,48.0,61,35,2
+Georgia,Male,Credit Card,828,59.14,91,20,14
+Connecticut,Male,Bank Transfer,461,65.86,96,23,7
+Idaho,Male,Venmo,457,65.29,98,37,7
+Minnesota,Female,Debit Card,119,59.5,67,52,2
+Nevada,Female,Venmo,218,43.6,67,20,5
+Arkansas,Male,Credit Card,299,49.83,70,27,6
+South Carolina,Male,Debit Card,334,55.67,86,22,6
+Oklahoma,Male,Debit Card,460,57.5,89,24,8
+Montana,Female,Venmo,387,64.5,88,31,6
+Michigan,Female,Debit Card,54,54.0,54,54,1
+Nebraska,Female,Credit Card,62,62.0,62,62,1
+Colorado,Female,PayPal,328,82.0,99,49,4
+Georgia,Male,Venmo,443,73.83,89,42,6
+New York,Male,Cash,436,54.5,95,26,8
+Washington,Female,Credit Card,242,60.5,82,34,4
+Arkansas,Female,Debit Card,129,64.5,98,31,2
+West Virginia,Female,Bank Transfer,135,45.0,74,24,3
+Montana,Male,PayPal,563,56.3,100,21,10
+Nebraska,Female,Venmo,261,52.2,79,22,5
+California,Female,Bank Transfer,151,50.33,86,23,3
+Illinois,Female,Cash,343,57.17,85,31,6
+Georgia,Female,Venmo,376,75.2,89,59,5
+Wyoming,Female,Cash,240,60.0,84,23,4
+Indiana,Male,Venmo,511,63.88,86,35,8
+Maine,Male,PayPal,262,52.4,84,38,5
+Pennsylvania,Female,PayPal,302,60.4,86,48,5
+Rhode Island,Female,Cash,147,73.5,82,65,2
+Nebraska,Male,Bank Transfer,595,66.11,97,34,9
+Florida,Female,Bank Transfer,85,42.5,52,33,2
+Idaho,Female,PayPal,605,55.0,99,26,11
+Wisconsin,Female,Bank Transfer,487,60.88,96,32,8
+New Jersey,Male,Bank Transfer,315,52.5,99,24,6
+Connecticut,Male,Venmo,431,47.89,87,20,9
+Pennsylvania,Female,Bank Transfer,459,65.57,94,27,7
+Alabama,Male,Cash,281,56.2,74,29,5
+Mississippi,Female,Bank Transfer,224,74.67,88,57,3
+Kentucky,Male,Venmo,360,51.43,76,21,7
+Arizona,Male,Bank Transfer,392,56.0,87,30,7
+Oregon,Male,Credit Card,399,66.5,96,20,6
+Kansas,Male,Debit Card,288,57.6,72,23,5
+Tennessee,Male,Credit Card,410,82.0,97,61,5
+Maine,Female,Bank Transfer,344,68.8,91,38,5
+Maryland,Male,Debit Card,396,56.57,95,20,7
+California,Male,Venmo,578,48.17,85,22,12
+Wyoming,Male,PayPal,219,54.75,76,41,4
+Alaska,Male,Debit Card,400,66.67,99,33,6
+Mississippi,Female,PayPal,377,75.4,95,39,5
+North Dakota,Female,Bank Transfer,245,61.25,84,27,4
+Kentucky,Male,Cash,482,48.2,67,30,10
+North Dakota,Female,Debit Card,224,74.67,95,34,3
+South Carolina,Male,Bank Transfer,403,67.17,97,23,6
+Connecticut,Male,Cash,675,56.25,85,27,12
+Kentucky,Female,PayPal,401,57.29,84,23,7
+Massachusetts,Female,Cash,162,81.0,85,77,2
+South Dakota,Male,PayPal,373,62.17,100,24,6
+Kansas,Female,PayPal,173,43.25,87,20,4
+Oregon,Female,Bank Transfer,103,51.5,69,34,2
+Indiana,Male,Cash,766,54.71,97,23,14
+Delaware,Male,Credit Card,434,54.25,93,24,8
+Nebraska,Male,PayPal,565,62.78,95,24,9
+Idaho,Male,Credit Card,836,69.67,98,25,12
+Nebraska,Female,PayPal,174,58.0,98,35,3
+Kentucky,Female,Bank Transfer,129,43.0,66,28,3
+Montana,Male,Cash,1182,78.8,99,48,15
+Colorado,Male,Debit Card,352,50.29,93,26,7
+Wyoming,Female,Bank Transfer,152,38.0,62,21,4
+New York,Female,Debit Card,53,53.0,53,53,1
+Vermont,Female,PayPal,300,75.0,98,50,4
+Connecticut,Female,Bank Transfer,218,72.67,94,48,3
+Rhode Island,Male,Venmo,668,74.22,97,24,9
+Alaska,Female,Credit Card,338,56.33,82,25,6
+Wisconsin,Female,Cash,330,55.0,85,24,6
+Arkansas,Female,Bank Transfer,337,67.4,97,44,5
+Alaska,Male,Credit Card,774,64.5,97,20,12
+Iowa,Male,Bank Transfer,574,71.75,100,33,8
+Montana,Male,Debit Card,593,53.91,93,25,11
+Iowa,Male,Credit Card,331,55.17,89,23,6
+Pennsylvania,Male,Cash,563,62.56,80,23,9
+Pennsylvania,Female,Debit Card,166,83.0,94,72,2
+Florida,Male,Cash,301,60.2,96,29,5
+Vermont,Female,Cash,246,61.5,89,38,4
+Oregon,Female,Cash,182,45.5,78,26,4
+New Hampshire,Male,Bank Transfer,503,55.89,81,25,9
+Massachusetts,Female,Debit Card,191,38.2,57,21,5
+Idaho,Female,Credit Card,256,51.2,82,24,5
+New York,Male,Credit Card,883,63.07,97,25,14
+Missouri,Female,Cash,22,22.0,22,22,1
+Pennsylvania,Male,Credit Card,761,76.1,95,33,10
+Missouri,Female,Bank Transfer,206,51.5,96,23,4
+North Dakota,Female,Venmo,180,60.0,64,57,3
+Alaska,Female,Bank Transfer,298,74.5,95,44,4
+California,Male,PayPal,835,64.23,97,31,13
+Montana,Female,Bank Transfer,485,53.89,86,20,9
+Wyoming,Male,Credit Card,703,54.08,94,28,13
+Texas,Male,Debit Card,428,61.14,94,21,7
+Delaware,Male,Venmo,884,55.25,97,20,16
+Connecticut,Male,Debit Card,296,42.29,90,21,7
+Kentucky,Male,Debit Card,462,57.75,100,23,8
+Tennessee,Female,Debit Card,295,73.75,96,54,4
+Texas,Male,Bank Transfer,390,55.71,85,31,7
+Maryland,Female,Venmo,98,32.67,50,20,3
+Alabama,Female,Credit Card,351,70.2,100,31,5
+Oklahoma,Female,Bank Transfer,135,67.5,80,55,2
+Nevada,Female,Debit Card,425,70.83,96,47,6
+Oregon,Male,Bank Transfer,512,51.2,90,23,10
+Alabama,Male,Venmo,712,64.73,99,25,11
+New Hampshire,Male,Credit Card,424,70.67,100,43,6
+Delaware,Male,Cash,380,47.5,76,20,8
+North Carolina,Female,PayPal,341,68.2,90,32,5
+Minnesota,Male,PayPal,825,55.0,96,25,15
+Louisiana,Female,PayPal,223,74.33,91,61,3
+Kansas,Female,Venmo,89,44.5,68,21,2
+Texas,Male,Cash,552,61.33,94,28,9
+New Hampshire,Male,Cash,638,63.8,97,26,10
+Kansas,Male,Cash,292,58.4,92,37,5
+West Virginia,Female,Cash,343,57.17,91,28,6
+Tennessee,Female,Cash,291,48.5,59,24,6
+Nebraska,Male,Cash,536,53.6,94,25,10
+Arkansas,Female,Credit Card,333,66.6,98,37,5
+Indiana,Male,Credit Card,773,70.27,95,25,11
+Georgia,Male,PayPal,313,62.6,93,20,5
+Iowa,Female,Cash,215,71.67,95,44,3
+Nevada,Female,PayPal,138,46.0,67,26,3
+Arkansas,Male,Debit Card,337,48.14,97,24,7
+Minnesota,Male,Venmo,402,50.25,97,20,8
+Wisconsin,Male,Cash,185,61.67,96,36,3
+Kansas,Female,Credit Card,442,55.25,96,30,8
+Maine,Female,Venmo,384,64.0,100,24,6
+Louisiana,Male,Bank Transfer,334,55.67,81,32,6
+Arizona,Female,Debit Card,445,74.17,100,31,6
+Wisconsin,Male,Bank Transfer,608,55.27,97,21,11
+Mississippi,Female,Debit Card,281,70.25,99,51,4
+Mississippi,Female,Cash,171,57.0,82,33,3
+Idaho,Female,Cash,121,60.5,91,30,2
+Kansas,Male,Venmo,270,67.5,80,43,4
+New Jersey,Male,PayPal,546,68.25,99,44,8
+California,Male,Bank Transfer,236,59.0,99,22,4
+Arkansas,Male,Venmo,435,62.14,97,32,7
+Virginia,Male,Debit Card,663,66.3,94,36,10
+New Mexico,Female,PayPal,142,71.0,86,56,2
+Alabama,Male,Debit Card,869,57.93,96,25,15
+Utah,Female,Bank Transfer,326,65.2,99,32,5
+Oregon,Male,Debit Card,477,53.0,94,26,9
+New Jersey,Female,Debit Card,54,54.0,54,54,1
+Missouri,Male,Cash,488,61.0,98,31,8
+Indiana,Female,Bank Transfer,372,53.14,78,26,7
+Hawaii,Female,Bank Transfer,347,69.4,92,40,5
+Oklahoma,Male,Cash,465,66.43,93,32,7
+Missouri,Male,Credit Card,100,33.33,43,28,3
+New Mexico,Male,PayPal,895,59.67,96,21,15
+Texas,Female,Cash,62,62.0,62,62,1
+New Hampshire,Male,PayPal,479,53.22,87,24,9
+New Mexico,Male,Venmo,663,66.3,99,22,10
+Pennsylvania,Male,Bank Transfer,375,75.0,100,37,5
+Indiana,Female,Credit Card,48,48.0,48,48,1
+New Mexico,Female,Cash,181,60.33,66,51,3
+Illinois,Female,Credit Card,346,69.2,98,28,5
+Louisiana,Female,Credit Card,458,65.43,94,27,7
+Kentucky,Female,Debit Card,308,51.33,85,20,6
+South Dakota,Female,PayPal,226,56.5,99,27,4
+South Carolina,Female,Credit Card,232,46.4,61,34,5
+North Dakota,Female,Credit Card,421,70.17,99,31,6
+Ohio,Female,Bank Transfer,76,76.0,76,76,1
+Iowa,Female,Bank Transfer,49,49.0,49,49,1
+Wisconsin,Male,Venmo,566,62.89,89,20,9
+North Carolina,Female,Credit Card,191,63.67,85,29,3
+Delaware,Female,PayPal,249,62.25,90,34,4
+Washington,Male,Cash,646,58.73,97,20,11
+Florida,Male,Venmo,432,61.71,98,37,7
+Rhode Island,Female,Credit Card,336,56.0,92,20,6
+Alaska,Female,Debit Card,218,72.67,96,53,3
+Connecticut,Female,Debit Card,262,52.4,73,28,5
+California,Male,Cash,517,51.7,83,27,10
+Mississippi,Male,Credit Card,637,49.0,89,21,13
+Mississippi,Male,Cash,338,48.29,97,21,7
+Montana,Female,PayPal,223,55.75,88,24,4
+Delaware,Female,Bank Transfer,158,31.6,52,20,5
+New Hampshire,Female,Credit Card,149,74.5,98,51,2
+Rhode Island,Male,PayPal,680,68.0,99,23,10
+Delaware,Female,Venmo,321,53.5,98,25,6
+West Virginia,Male,Venmo,804,73.09,97,26,11
+Kentucky,Male,Credit Card,420,52.5,84,21,8
+Wisconsin,Female,Credit Card,122,40.67,45,36,3
+Oklahoma,Male,Bank Transfer,789,60.69,86,24,13
+Arizona,Male,PayPal,497,62.13,91,22,8
+Washington,Female,PayPal,193,38.6,52,23,5
+Arizona,Male,Cash,326,81.5,100,62,4
+Oregon,Male,Cash,545,60.56,95,23,9
+Alaska,Female,PayPal,414,82.8,93,66,5
+Connecticut,Female,Cash,305,61.0,75,48,5
+Iowa,Female,Debit Card,272,68.0,92,36,4
+California,Male,Credit Card,782,60.15,96,22,13
+Kentucky,Female,Cash,295,59.0,95,28,5
+Tennessee,Female,PayPal,463,66.14,99,37,7
+Vermont,Female,Debit Card,285,57.0,83,31,5
+Missouri,Female,PayPal,162,81.0,91,71,2
+North Dakota,Male,Credit Card,406,67.67,87,44,6
+Colorado,Female,Venmo,289,57.8,93,39,5
+Texas,Male,Venmo,400,66.67,97,23,6
+Louisiana,Female,Bank Transfer,350,58.33,89,26,6
+Arizona,Male,Debit Card,546,68.25,96,34,8
+New Hampshire,Male,Venmo,560,62.22,97,23,9
+Florida,Female,Cash,118,59.0,77,41,2
+New Mexico,Female,Credit Card,138,69.0,82,56,2
+Rhode Island,Female,Venmo,25,25.0,25,25,1
+Texas,Male,PayPal,535,59.44,98,25,9
+West Virginia,Male,Cash,476,68.0,98,27,7
+Massachusetts,Male,Credit Card,525,75.0,94,33,7
+Utah,Male,Cash,709,64.45,99,20,11
+South Dakota,Female,Bank Transfer,287,71.75,89,53,4
+Vermont,Male,Bank Transfer,699,63.55,95,27,11
+Louisiana,Female,Cash,287,57.4,75,36,5
+Missouri,Male,Debit Card,883,63.07,96,22,14
+Washington,Male,Venmo,267,53.4,88,23,5
+Illinois,Male,Debit Card,433,54.13,92,22,8
+Florida,Female,Venmo,154,51.33,91,20,3
+North Carolina,Female,Debit Card,89,44.5,65,24,2
